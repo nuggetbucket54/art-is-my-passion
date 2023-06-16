@@ -44,9 +44,6 @@
 * [angela drawing goat](https://github.com/ac-csy)
 * [ryan cheng the goated artist and trombone player](https://github.com/ac-csy)
 
-<p align="right">
-  (<a href="#readme-top">back to top</a>)
-</p>
 
 
 
